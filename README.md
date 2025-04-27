@@ -27,6 +27,8 @@ The application provides a smooth and modern user experience by integrating Swee
 🎨 Modern UI with Responsive Design and Smooth Transitions
 
 🔔 Success and Error Notifications using SweetAlert
+
+
 📈 Future Enhancements (Coming Soon 🚀)
 Add User Authentication (Login/Signup)
 
